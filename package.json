@@ -1,0 +1,21 @@
+{
+  "name": "tsp-admin",
+  "version": "1.0.0",
+  "description": "tsp admin app",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "sonali maid",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "firebase": "^5.4.0",
+    "firebase-admin": "^6.0.0",
+    "firebaseauth": "^1.0.0"
+  }
+}
